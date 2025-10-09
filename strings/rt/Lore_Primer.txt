@@ -1,11 +1,11 @@
-<p><strong><em><span style="font-size:115%"> Welcome to Vanderlin! </span></em></strong></p>
-<p> This lore primer serves as an introduction to Vanderlin's lore and world. <br>
-While it's not required reading, leadership roles may find this information useful to roleplay their positions. This, or anyone else interested in playing a character with more knowledge about the setting. Not all information is available here, and some secrets still lie within item descriptions, inscriptions, or booklets- it's a primer, not a compendium. </p>
+<p><strong><em><span style="font-size:115%"> Welcome to the land of Shifting Roses! </span></em></strong></p>
+<p> This lore primer will introduce you to basic concepts and lore regarding the Shifting Roses world. <br>
+While it's not required reading, leadership roles may find this information useful, and all information here will be helpful in fleshing out any character you may wish to create. </p>
 <hr>
-<strong><span style="font-size:105%"> Some quick vocabulary/concepts important to the setting: </span></strong>
-<p><strong> Psydonia </strong> - The world Vanderlin takes place in, named after its creation god, Psydon. It is currently the year 2515 after His death. </p>
-<p><strong> Faience </strong> - The continent Vanderlin takes place in. Shaped by His hand. </p>
-<p><strong> Lux </strong> - The core link of divinity a person holds; the soul. A sliver of Psydon present within each species touched at one point by divine hand. It is said that it carries the power of a single, focused miracle of life- yet its removal dooms a soul never to pass into the underworld. </p>
+<strong><span style="font-size:105%"> The most important aspects you may want to know: </span></strong>
+<p><strong> New Palmos </strong> - The city in which you will play and live in. Run by a council of Senators who answer directly to its founder, the Doge. </p>
+<p><strong> Temporal Lands </strong> - The land in which New Palmos is located, and ever shifting world seemingly never the same between weeks which has baffled explorers for hundreds of years. </p>
+<p><strong> Soul </strong> - In this world, every living thing from a person to a flower has a spiritual manifestation of their living essence. A Soul which can be tapped into to harness ones own power, or be used by others for their own personal gain. A Soul is both a spiritual, and physical part of a person which can be ripped out of them or destroyed entirely. </p>
 <hr>
 
 <details>
@@ -13,48 +13,42 @@ While it's not required reading, leadership roles may find this information usef
 
 
 
-	<p><strong>  Isle of Enigma </strong><em> - "Once the trade center of the world, now a festering cancer of spilled oil, shrapnel, and bomb-shattered soil."  </em>
+	<p><strong>  Siluchi Isles </strong><em> - "A group of islands of varying sizes, directly off of the coast of the Starlight Bay. The isles are home to a slew of multiple different city states, giving the entire area the nickname of the 'Free States Isles'"  </em>
 	<br></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Town of Rockhill </strong><br>  A once-bustling trade center colloquially known as Roguetown. Now a warzone, the last-standing settlement against the armada of automatons. </p>
-		<p><strong> - Kingdom of Heartfelt </strong><br>  The prosperous head of technological progress within the Isle of Enigma, experiencing disaster as their automaton constructions turn against them and ravage their lands.  </p>
+		<p><strong> - Pulse of the Sea </strong><br> The center point of the straits which seperate the Three Continents, trade and movement between it is almost entirely controlled by the City States.</p>
+		<p><strong> - Library of Ilonzo </strong><br>  Located within the City State of Merona, it is the largest known gathering of knowledge within  </p>
 	</details>
 	<br>
 
 
-	<p><strong>  Peninsula of Vanderlin </strong><em> - "The new trade capital of the world."  </em></p>
+	<p><strong>  Hearthshire </strong><em> - "The Eastern Continent, and the home to most Sapien races. Hearthshire has seen kingdoms rise and fall, and the land bares the scars of over a thousand years of conflict."  </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - City of Vanderlin </strong><br> A canyon settlement on a nearby peninsula to the East of the Isle of Enigma. Reaping the boons of both, Vanderlin is a city of trade and prosperity. Built over the first-discovered opening to the Tomb of Matthios, it attracts adventurers from all over Psydonia to delve within and seek fortune.  </p>
-		<p><strong> - County of Daftmarsh </strong><br> A thrice-sunken castle, now a town-on-stilts built from its ruins. Daftmarsh guards the river delta directly North of Vanderlin. It often serves as a safe cove for pirates, providing Vanderlin merchant ships safe passage in exchange for the Crown's averted eyes. </p>
-		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy area of the peninsula, overgrown and suffering an invasion of beespiders.  </p>
-		<p><strong> - Shire of Murderwood </strong><br> Ancestral Forest bearing many glades, overrun by villains, knaves, and other lawlessness. A testament to Dendor's madness, its constant-shifting thicket stretches across Western Vanderlin. </p>
-		<p><strong> - Malum's Anvil </strong><br> A jagged mountain filled with ores, treasures, and lava. Likewise a cacophony of horrid goblins, beasts, and other misfortunes. The crater of Astrata's fallen shard still scars its peak. </p>
+		<p><strong> - Seat of Radiance </strong><br> The capitol of Solaros' Grand Domain, and the origin of the Dual Pantheon. It rests upon the crest of Starlight Bay, which oversees the City States Isles.  </p>
+		<p><strong> - Taggarth Mountains </strong><br> A massive mountain range completely covering Hearthshires southeastern coast. The birthplace of Mountain Dwarves and Gnomes. </p>
+		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy strip of land seperating the lands of Solaros' Grand Domain and the Black Kingdom of Grenzelhoft. Its mere existence has prevented many a bloody battle.  </p>
+		<p><strong> - River Rhoul </strong><br> A massive river jutting from west to east, cutting into the heart of Hearthshire. Rhoul Valley centers around it, and is the most fertile land within the continent. </p>
+		<p><strong> - Malum's Anvil </strong><br> A jagged mountain filled with ores, treasures, and lava. Mountain Dwarves believe that their God of War rests underneath. </p>
+	</details>
+		<p><strong> - Sylvi Glades </strong><br> Large forests dotting the northern areas of Hearthshire, before the Tundras of Wintermare, and connected to the Necral Forests. Still not entirely explored to this day. </p>
+	</details>
+		<p><strong> - Field of Shame </strong><br> A large battlefield, left untouched to time. Said to have been the location where both Gods of War united to prevent the newly ascended Kerack from destroying Hearthshire. </p>
 	</details>
 	<br>
 
 
-	<p><strong>  Kingsfield  </strong><em> - "The pride of humenity. Crown of Psydonia"	</em></p>
-
-	<details>
-		<summary><em> Points of Interest </em></summary>
-
-		<p><strong> - City of Kingsfield </strong><br>  Massive city built upon temperate forests far, far North to the Isle of Enigma. Kingsfield is the most prosperous and populated city of the world, not to mention the major cultural export. It is not to be confused with the state, Kingsfield, which encompasses it. Kingsfield rail systems span all across Western Faience, of no small part due to Heartfeltian artificers' effort. </p>
-	</details>
-	<br>
-
-
-	<p><strong>  Tundras of Wintermare </strong><em> - "The largest humen-accepted elven territory, though most land is covered in tough permafrost."  </em></p>
+	<p><strong>  Tundras of Wintermare </strong><em> - "The northern lands, considered to spread across both Hearthshire to the East and Gorogomn to the West."  </em></p>
 
 	<details>
 		<summary><em>Points of Interest</em></summary>
 
-		<p><strong> - City of Rosewood </strong><br> The capital of the Wintermare Empire, located near its Southeastern inland sea. Houses world-reknown Noccian academies, it is widely considered the magic capital of the world. </p>
+		<p><strong> - City of Rosewood </strong><br> The capital of the Kingdom of Helmsmore on Hearthshire. Housing an impressive display of technological advancements combined with their magical academies makes it one of the premier locations for would-be scholars and up and coming artificers. </p>
 		<p><strong> - White Palace Pass </strong><br> One of few passageways through The Howling Mountains between Grenzelhoft and Rosewood. A place of great tension and prior conflict. </p>
 		<p><strong> - Noc's Crown </strong><br> A towering peak hiding ruins of past civilization.  </p>
 		<p><strong> - Morvael Sink </strong><br> A frigid marsh. Old temples to Zizo lie in ruin.  </p>
@@ -62,13 +56,13 @@ While it's not required reading, leadership roles may find this information usef
 	</details>
 	<br>
 
-	<p><strong>  Necral Forests </strong><em> - "Ancestral forests scattered around Psydonia. The ancient homes of the elves." </em></p>
+	<p><strong>  Necral Forests </strong><em> - "Ancestral forests connected to Sylvi Glades, residing in the northeast of Hearthshire directly north of Tyva Bay. Said to be the home of the Elves." </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - Amber Hollow </strong><br> At the center of the Northwestern Redwoods, a ring of gnarled, interlaced roots sits atop a great earthen mound. Within which lies the largest Western entrance to Subterra. Escaped hollowkin experiments, and later harpies, call this settlement their home. Almost all hollowkin can trace their ancestry back to this maw. While hostile to outsiders, this serves as a major point of defense against dark elven forces. </p>
-		<p><strong> - The Tree of Psydonia </strong><br> A great sequoia dwarfing all others, located far Northwest of Amber Hollow. It is said to be a memorial created by Psydon Himself to honour Necra's original death. Elves revere this landmark, despite its unsettling, skull-like bark.  </p>
+		<p><strong> - Amber Hollow </strong><br> A ring of gnarled, interlaced roots sitting atop a great earthen mound. Within which lies the largest entrance to Subterra on all of Hearthshire. Escaped hollowkin experiments, and later harpies, call this settlement their home. Almost all hollowkin can trace their ancestry back to this maw. Generally hostile to most outsiders. </p>
+		<p><strong> - The Tree of Underlife </strong><br> A great sequoia dwarfing all others, located far Northwest of Amber Hollow. It is said to be a memorial created by Sol themselves to honour the Goddess of Underlife. Elves revere this landmark, despite its unsettling, skull-like bark.  </p>
 	</details>
 	<br>
 
